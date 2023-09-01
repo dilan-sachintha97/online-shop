@@ -3,7 +3,7 @@ package com.spark.productservice.service;
 import com.spark.productservice.dto.ProductRequest;
 import com.spark.productservice.dto.ProductResponse;
 import com.spark.productservice.model.Product;
-import com.spark.productservice.model.repo.ProductRepo;
+import com.spark.productservice.repo.ProductRepo;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
